@@ -1,6 +1,7 @@
 package com.study.first
 
-import com.scala.study.`class`.{Order, Person, TestAbstract1,TestSingleton}
+import com.study.first.`class`.{Order, Person, TestAbstract1}
+
 
 /**
   * Created by dt on 17-7-23.

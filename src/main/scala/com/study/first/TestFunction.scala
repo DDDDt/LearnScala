@@ -1,6 +1,7 @@
 package com.study.first
 
-import com.scala.study.`class`.TestFunction
+import com.study.first.`class`.TestFunction
+
 
 /**
   * Created by dt on 17-7-26.

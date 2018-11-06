@@ -1,6 +1,7 @@
 package com.study.first.`trait`
 
-import com.scala.study.TestTrait
+import com.study.first.TestTrait
+
 
 /**
   * Created by dt on 17-8-2.

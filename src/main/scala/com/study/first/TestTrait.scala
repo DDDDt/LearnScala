@@ -1,6 +1,6 @@
 package com.study.first
 
-import com.scala.study.`trait`.{Animal, WaggingTail}
+
 
 /**
   * Created by dt on 17-8-2.
